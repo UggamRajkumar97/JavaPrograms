@@ -1,6 +1,6 @@
 package exam.assignments;
 
-public class ArmStrong {
+public class ArmStrongNumbers {
 
 	public static boolean isArmstrong(int num) {
 		int newNum=num;
